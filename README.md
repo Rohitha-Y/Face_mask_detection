@@ -29,3 +29,8 @@ This project detects whether a person is wearing a face mask using deep learning
 2. **Train the model:**  
    ```bash
    python train_mask_detector.py
+3. **Run face mask detection on video:**
+   ```bash
+   python detect_mask_video.py
+
+ 
